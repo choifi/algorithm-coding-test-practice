@@ -3,7 +3,7 @@ BOJ 2579 - Stair Climbing
 Category: Dynamic Programming
 Approach: Bottom-Up 
 * Bottom-up
-- for무으로 i= 1 -> N까지 순서대로 채움
+- for문으로 i= 1 -> N까지 순서대로 채움
 *Top-Down
 - 재귀 + 메모이제이션 
 - Top-Down은 "전체 상태 공간"을 채우려는 것이 아니라, "정답을 구성하는 데 실제로 필요한 상태만" 호출합니다.
